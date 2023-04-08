@@ -6,7 +6,7 @@
 ## E-mail: pedrodanielbm@hotmail.com
 
 ![Pedro Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDanielBrunetto&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDanielBrunetto&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDanielBruneto&layout=compact)]()
 
 ## Technologies I use and study
 
