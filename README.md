@@ -24,6 +24,8 @@
 </div>
 <br>
 
+## Get to know me a little more
+
 ### Hello, welcome to my professional profile! I am a 17-year-old student currently studying System Development Technician at Etec Dra. Ruth Cardoso, and I am also pursuing a degree in Systems Analysis and Development at UNIP. I have a great skill in software development, both for web and applications, using various programming languages and frameworks. I am constantly seeking to update and improve my skills to meet market demands and offer efficient and innovative solutions. I am available for new projects and job opportunities in the software development field.
 
 ### I am joining the GitHub community and still studying new programming languages. Here, I intend to share my experiences and achievements in the field. In 2023, I will add several repositories to share my progress. It will be a pleasure to have you here!
