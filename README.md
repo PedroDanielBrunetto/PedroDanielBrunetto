@@ -5,9 +5,10 @@
 
 ## E-mail: pedrodanielbm@hotmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDanielBrunetto&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro Daniel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDanielBrunetto&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDanielBrunetto&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Pedro Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDanielBrunetto&show_icons=true&theme=dracula)
+
 
 ## Technologies I use and study
 
