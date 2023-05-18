@@ -5,10 +5,10 @@
 
 ## E-mail: pedrodanielbm@hotmail.com
 
-[![Pedro Daniel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDanielBrunetto&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Pedro Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDanielBrunetto&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDanielBrunetto&layout=pie&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=PedroDanielBrunetto&show_icons=true&theme=tokyonight">
+</div>
 
 ## Technologies I use and study
 
@@ -26,6 +26,7 @@
     <img align="center" alt="REACT NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="EXPO" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
     <img align="center" alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img align="center" alt="VERCEL" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img align="center" alt="PRISMA" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
