@@ -5,7 +5,7 @@
 
 ## E-mail: pedrodanielbm@hotmail.com
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroDanielBrunetto)](https://github.com/anuraghazra/github-readme-stats/?username=PedroDanielBrunetto&layout=dracula)
+[![Pedro wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroDanielBrunetto)](https://github.com/anuraghazra/github-readme-stats?username=PedroDanielBrunetto&layout=dracula)
 
 
 ![Pedro Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDanielBrunetto&show_icons=true&theme=dracula)
