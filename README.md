@@ -5,10 +5,12 @@
 
 ## E-mail: pedrodanielbm@hotmail.com
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDanielBrunetto&theme=tokyonight&hide_border=true&layout=donut"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=PedroDanielBrunetto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"><br>
-<img src="https://streak-stats.demolab.com/?user=PedroDanielBrunetto&theme=tokyonight&hide_border=true">
+<div align="center">
+<img height="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDanielBrunetto&theme=tokyonight&hide_border=true&layout=donut">
+<img height="180em" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDanielBrunetto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+</div>
+<div align="center">
+<img height="180em" src="https://streak-stats.demolab.com/?user=PedroDanielBrunetto&theme=tokyonight&hide_border=true">
 </div>
 
 ## Technologies I use and study
