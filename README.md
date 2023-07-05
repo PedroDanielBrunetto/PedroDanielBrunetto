@@ -44,6 +44,10 @@
 
 ## Get to know me a little more
 
-### Hello, welcome to my professional profile! I am a 18-year-old student currently studying System Development Technician at Etec Dra. Ruth Cardoso, and I am also pursuing a degree in Systems Analysis and Development at UNIP. I have a great skill in software development, both for web and applications, using various programming languages and frameworks. I am constantly seeking to update and improve my skills to meet market demands and offer efficient and innovative solutions. I am available for new projects and job opportunities in the software development field.
+### Hello, welcome to my professional profile! I am an 18-year-old student currently enrolled in the Technical Development of Systems program at Etec Dra. Ruth Cardoso, and I am pursuing a degree in Analysis and Systems Development at the Universidade Católica de Santos. I have strong skills in software development, both for web and applications, using various programming languages and frameworks.
+
+### Additionally, I have well-developed soft skills such as teamwork and project organization. I am capable of effectively collaborating in multidisciplinary teams, sharing ideas and knowledge to achieve common goals. I also possess organizational skills, allowing me to plan and manage projects efficiently, ensuring deadlines and delivering quality results.
+
+### I am constantly updating and enhancing my skills to meet market demands and provide efficient and innovative solutions. I am available for new projects and job opportunities.
 
 ### I am joining the GitHub community and still studying new programming languages. Here, I intend to share my experiences and achievements in the field. In 2023, I will add several repositories to share my progress. It will be a pleasure to have you here!
