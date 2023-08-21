@@ -47,9 +47,11 @@
 
 ## Get to know me a little more
 
-### Hello, welcome to my professional profile! I am an 18-year-old student currently enrolled in the Technical Development of Systems program at Etec Dra. Ruth Cardoso, and I am pursuing a degree in Analysis and Systems Development at the Universidade Católica de Santos. I have strong skills in software development, both for web and applications, using various programming languages and frameworks.
+### Hello, welcome to my professional profile! I am an 18-year-old student passionate about technology, currently studying Systems Development at Etec Dra. Ruth Cardoso and Systems Analysis and Development at the Catholic University of Santos. In addition, I am working as an IT Apprentice at Marimex company.
 
-### Additionally, I have well-developed soft skills such as teamwork and project organization. I am capable of effectively collaborating in multidisciplinary teams, sharing ideas and knowledge to achieve common goals. I also possess organizational skills, allowing me to plan and manage projects efficiently, ensuring deadlines and delivering quality results.
+### I have strong skills in software development, both for web and apps, using various programming languages, frameworks, and libraries. I also possess well-developed interpersonal skills, such as teamwork and project organization. 
+
+### I am able to effectively collaborate in multidisciplinary teams, sharing ideas and knowledge to achieve common goals. Additionally, I have organizational skills that allow me to plan and manage projects efficiently, ensuring deadlines are met and delivering quality results.
 
 ### I am constantly updating and enhancing my skills to meet market demands and provide efficient and innovative solutions. I am available for new projects and job opportunities.
 
