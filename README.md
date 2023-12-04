@@ -1,6 +1,6 @@
 # Hi, i am Pedro Daniel 👋
 <br/>
-I'm a software developer and I love to learn new things. My main focus is create new applications and services with a idea of are util for the peoples.
+I'm a software developer and I love to learn new things. My main focus is participate in the development new applications and services with a idea of are util for the peoples.
 <br/>
 <br>
 <a href="https://www.linkedin.com/in/PedroDanielBrunetto/">
