@@ -22,10 +22,10 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <div>
 <img src="icons8-html5-96.png" width="50" height="50">
 <img src="icons8-css3-96.png" width="50" height="50">
-<img src="icons8-external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo-50.png" width="50" height="50">
 <img src="icons8-react-a-javascript-library-for-building-user-interfaces-96.png" width="50" height="50">
 <img src="icons8-nextjs-96.png" width="50" height="50">
 <img src="icons8-rapidamente-96.png" width="50" height="50">
+<img src="icons8-external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo-50.png" width="50" height="50">
 <img src="icons8-angular-96.png" width="50" height="50">
 <img src="icons8-bootstrap-96.png" width="50" height="50">
 <img src="icons8-tailwindcss-96.png" width="50" height="50">
