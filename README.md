@@ -34,6 +34,7 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <div>
 <img src="icons8-node-js-96.png" width="50" height="50">
 <img src="icons8-expresso-js-50.png" width="50" height="50">
+<img src="112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" width="100" height="50">
 <img src="icons8-estrutura-de-rede-96.png" width="50" height="50">
 <img src="icons8-jwt-96.png" width="50" height="50">
 <img src="icons8-amazon-s3-96.png" width="50" height="50">
