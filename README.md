@@ -9,6 +9,9 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <a href="mailto:pedrodanielbm@hotmail.com">
 <img src="icons8-e-mail-96.png" width="50" height="50">
 </a>
+<a href="https://leetcode.com/u/pedrodanielbrunetto/">
+<img src="leetcode_logo.png" width="50" height="50">
+</a>
 
 ## Languages
 <div>
