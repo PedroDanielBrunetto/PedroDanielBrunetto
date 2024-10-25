@@ -41,6 +41,7 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img src="icons8-estrutura-de-rede-96.png" width="50" height="50">
 <img src="icons8-jwt-96.png" width="50" height="50">
 <img src="icons8-amazon-s3-96.png" width="50" height="50">
+<img src="aws-ses-logo.jpg" width="50" height="50">
 </div>
 
 ## Data Base
@@ -66,6 +67,8 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img src="icons8-docker-96.png" width="50" height="50">
 <img alt="DBeaver" src="icons8-castor-64.png" width="50" height="50">
 <img alt="Vercel" src="180x180.png" width="50" height="50">
+<img alt="AzureVM" src="azureVM.png" width="50" height="50">
+<img alt="cloudflare" src="[azureVM.png](https://github.com/user-attachments/assets/75ec73d5-a933-4bb6-8049-5e2cbd0ad4e0)" width="50" height="50">
 </div>
 
 ## Dashborad
