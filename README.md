@@ -70,6 +70,7 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img alt="Vercel" src="180x180.png" width="50" height="50">
 <img alt="AzureVM" src="azureVM.png" width="50" height="50">
 <img alt="cloudflare" src="cloudflare_logo-removebg-preview.png" width="50" height="50">
+<img alt="openai-api" src="icons8-chatgpt-48.png">
 </div>
 
 ## Dashborad
