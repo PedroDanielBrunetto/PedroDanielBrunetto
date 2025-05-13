@@ -13,14 +13,15 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img src="leetcode_logo.png" width="50" height="50">
 </a>
 
-## Languages
+## Stack
 <div>
 <img src="icons8-js-96.png" width="50" height="50">
 <img src="icons8-texto-datilografado-96.png" width="50" height="50">
 <img src="icons8-c-96.png" width="50" height="50">
 </div>
 
-## Front-end
+<br/>
+
 <div>
 <img src="icons8-html5-96.png" width="50" height="50">
 <img src="icons8-css3-96.png" width="50" height="50">
@@ -33,7 +34,8 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img src="icons8-tailwindcss-96.png" width="50" height="50">
 </div>
 
-## Back-end
+<br/>
+
 <div>
 <img src="icons8-node-js-96.png" width="50" height="50">
 <img src="icons8-expresso-js-50.png" width="50" height="50">
@@ -45,7 +47,8 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img src="aws-ses-logo.jpg" width="50" height="50">
 </div>
 
-## Data Base
+<br/>
+
 <div>
 <img src="icons8-servidor-microsoft-sql-96.png" width="50" height="50">
 <img src="icons8-logo-mysql-96.png" width="50" height="50">
@@ -54,13 +57,15 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img src="icons8-redis-96.png" width="50" height="50">
 </div>
 
-## Mobile
+<br/>
+
 <div>
 <img src="react-native.png" width="50" height="50">
 <img src="icons8-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-96.png" width="50" height="50">
 </div>
 
-## Tools and Platforms
+<br/>
+
 <div>
 <img src="icons8-git-96.png" width="50" height="50">
 <img src="insomnia-logo-A35E09EB19-seeklogo.com.png" width="50" height="50">
@@ -73,6 +78,7 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img alt="openai-api" src="icons8-chatgpt-48.png">
 <img alt="stripe-payment-gateway" src="icons8-stripe-to-make-and-receive-payments-over-the-internet-48.png">
 </div>
+<br/>
 
 ## Dashborad
 <div align="center">
