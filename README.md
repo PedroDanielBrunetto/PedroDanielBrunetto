@@ -25,6 +25,7 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <div>
 <img alt="HTML" src="icons8-html5-96.png" width="50" height="50">
 <img alt="CSS" src="icons8-css3-96.png" width="50" height="50">
+<img alt="Sass" src="sass.png" width="50" height="50">
 <img alt="React" src="icons8-react-a-javascript-library-for-building-user-interfaces-96.png" width="50" height="50">
 <img alt="Next.js" src="icons8-nextjs-96.png" width="50" height="50">
 <img alt="Vite" src="icons8-rapidamente-96.png" width="50" height="50">
@@ -43,8 +44,6 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img alt="TypeORM" src="112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" width="100" height="50">
 <img alt=".NET (Core e Framework)" src="icons8-estrutura-de-rede-96.png" width="50" height="50">
 <img alt="JWT" src="icons8-jwt-96.png" width="50" height="50">
-<img alt="AWS S3" src="icons8-amazon-s3-96.png" width="50" height="50">
-<img alt="AWS SES" src="aws-ses-logo.jpg" width="50" height="50">
 </div>
 
 <br/>
@@ -55,6 +54,20 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img alt="PostgreSQL" src="icons8-postgreesql-96.png" width="50" height="50">
 <img alt="MongoDB" src="icons8-mongodb-96.png" width="50" height="50">
 <img alt="Redis" src="icons8-redis-96.png" width="50" height="50">
+</div>
+
+<br/>
+
+<div>
+<img alt="AWS S3" src="icons8-amazon-s3-96.png" width="50" height="50">
+<img alt="AWS SQS" src="amazon-sqs.png" width="50" height="50">
+<img alt="AWS SES" src="aws-ses-logo.jpg" width="50" height="50">
+<img alt="AWS Lambda" src="aws-lambda.png" width="50" height="50">
+<img alt="AWS ECS" src="amazon-ecs.png" width="50" height="50">
+<img alt="AWS RDS" src="aws-rds-relational-database-service.png" width="50" height="50">
+<img alt="AWS EventBridge" src="eventbridge.png" width="50" height="50">
+<img alt="AWS DynamoDB" src="aws-dynamodb.png" width="50" height="50">
+<img alt="Apache Kafka" src="icons8-apache-kafka-64.png" width="50" height="50">
 </div>
 
 <br/>
@@ -73,6 +86,7 @@ I'm a software developer and I love to learn new things. My main focus is partic
 <img alt="Docker" src="icons8-docker-96.png" width="50" height="50">
 <img alt="DBeaver" src="icons8-castor-64.png" width="50" height="50">
 <img alt="Vercel" src="180x180.png" width="50" height="50">
+<img alt="Azure DevOps" src="azure_devops.png" width="50" height="50">
 <img alt="AzureVM" src="azureVM.png" width="50" height="50">
 <img alt="Cloudflare" src="cloudflare_logo-removebg-preview.png" width="50" height="50">
 <img alt="OpenAi-api" src="icons8-chatgpt-48.png">
